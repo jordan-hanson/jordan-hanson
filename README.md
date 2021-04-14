@@ -24,7 +24,6 @@
 
 ##🌱 Growth with Accountability:
 
-* Accountable coding hours: 
 [![jordanhanson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanhanson)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
