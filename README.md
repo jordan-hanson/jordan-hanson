@@ -18,10 +18,12 @@
 * Currently reading: Grokking Algorithms.
 
 ##📬 How to reach me:
+
 * Send me a message on [LinkedIn](https://www.linkedin.com/in/jordan-hanson-dev/)!
 
 ##🌱 Growth with Accountability:
 
+* Accountability is the glue that bonds commitment to results! - Will Craig, Living the Hero's Journey.
 [![jordanhanson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanhanson)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
