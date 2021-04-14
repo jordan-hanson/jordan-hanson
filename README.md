@@ -1,7 +1,5 @@
 # Hello! I am  [Jordan Hanson](https://www.linkedin.com/in/jordan-hanson-dev/)! ✨
-*Full Stack Web Developer
-*Front End React Engineer
-*Back End Java Engineer
+* Full-Stack Web Developer
 
 ##🔍 Currently seeking:
 
