@@ -4,7 +4,7 @@
 ## 🔍 Currently seeking:
 
 * I'm currently looking for full time opportunities in Full-Stack Development, specifically in React and Java.
-* I'm open to learning new technologiese, or diving in deeper with my current skill set wherever I work.
+* I'm open to learning new technologies, or diving in deeper with my current skill set wherever I work.
 
 ## 👀 I'm currently working on:
 
