@@ -7,8 +7,8 @@
 
 ## ⚡ I'm currently learning:
 
-* Implement data structures into production applications.
-* Practicing via code challenges in JS, Python, and Java.
+* Implementing data structures into production applications.
+* Practicing data algorithms via code challenges in JS, Python, and Java.
 * Currently reading: Grokking Algorithms.
 
 ## 🔍 I'm currently seeking:
