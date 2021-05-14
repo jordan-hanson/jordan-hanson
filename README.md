@@ -3,7 +3,6 @@
 ## 👀 I'm currently working on:
 
 * Creating a React frontend and Java Spring backend Airbnb application.
-* Collaborating on a team of 5 Full-Stack Developers creating a kid experience emoji application for the Boys and Girls Club.
 
 ## ⚡ I'm currently learning:
 
