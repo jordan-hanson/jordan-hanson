@@ -2,11 +2,11 @@
 
 ## 👀 I'm currently working on:
 
-* Creating a React frontend and Java Spring backend Airbnb application.
+* Frontend Testing with Jest & RTL for Legacy Floral with HQ.
 
 ## ⚡ I'm currently learning:
 
-* Implementing data structures into production applications.
+* Experience in test driven development and E2E testing.
 * Practicing data algorithms via code challenges in JS, Python, and Java.
 * Currently reading: Grokking Algorithms.
 
@@ -19,7 +19,7 @@
 
 * Send me a message on [LinkedIn](https://www.linkedin.com/in/jordan-hanson-dev/)!
 
-## 🌱 Growth with Accountability:
+## 🌱 Growth with Accountability VSCode & IntelliJ Weekly Hours:
 
 * Accountability is the glue that bonds commitment to results! - Will Craig, Living the Hero's Journey.
 
