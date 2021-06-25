@@ -2,7 +2,7 @@
 
 ## 👀 I'm currently working on:
 
-* Frontend Testing with Jest & RTL for Legacy Floral with HQ.
+* Frontend Testing experience with Jest and RTL. Currently ver 264 full coverage tests as of 6/25/21 for Legacy Floral (repo on BitBucket).
 
 ## ⚡ I'm currently learning:
 
