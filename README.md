@@ -11,11 +11,6 @@
 * Practicing data algorithms via code challenges in JS, Python, and Java.
 * Currently reading: Grokking Algorithms.
 
-## 🔍 I'm currently seeking:
-
-* I'm currently looking for full time opportunities in Full-Stack Development, specifically in React and Java.
-* I'm open to learning new technologies, or diving in deeper with my current skill set wherever I work.
-
 ## 📬 How to reach me:
 
 * Send me a message on [LinkedIn](https://www.linkedin.com/in/jordan-hanson-dev/)!
