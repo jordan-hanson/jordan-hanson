@@ -12,7 +12,7 @@
 
 * Send me a message on [LinkedIn](https://www.linkedin.com/in/jordan-hanson-dev/)!
 
-## 🌱 Growth with Accountability VSCode & IntelliJ Weekly Hours:
+## 🌱 Growth with Accountability IntelliJ Weekly Hours:
 
 * Accountability is the glue that bonds commitment to results! - Will Craig, Living the Hero's Journey.
 
