@@ -17,8 +17,6 @@
 * Accountability is the glue that bonds commitment to results! - Will Craig, Living the Hero's Journey.
 
 
-[![jordanhanson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanhanson)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **jordan-hanson/jordan-hanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
